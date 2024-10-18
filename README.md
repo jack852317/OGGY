@@ -17,3 +17,4 @@
 ![image](https://github.com/TienNHM/OGGY/assets/33385777/9d7e963d-d2e2-4607-9c53-ac9ee8b50195)
 
 Oggy And Mr 1
+Oggy And Mr 2
